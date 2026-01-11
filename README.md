@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AugustoMacri&theme=tokyonight" />
