@@ -1,68 +1,63 @@
-<h1>Bem Vindo! 👋</h1>
+<h1>Welcome! 👋</h1>
 
 <p>
-  🎓 <strong>Estudante de Sistemas de Informação</strong> na UFU<br>
-  💾 <strong>Engenheiro de Dados Júnior</strong><br>
-  🔬 <strong>Pesquisa em Algoritmos Evolutivos</strong><br>
-  🏆 <strong>Membro do UFU Racing Fórmula Team</strong><br>
+  🎓 <strong>Information Systems Student</strong> at UFU<br>
+  💾 <strong>Junior Data Engineer</strong><br>
+  🔬 <strong>Research in Evolutionary Algorithms</strong><br>
+  🏆 <strong>Member of the UFU Racing Formula Team</strong><br>
 </p>
 
-<h2>Sobre mim</h2>
+<h2>About Me</h2>
 <p>
-  Atualmente, atuo como <strong>Engenheiro de Dados Júnior</strong> e estou focado no aprimoramento contínuo das minhas habilidades na área de <strong>Engenharia de Dados e Big Data</strong>. 
-  Possuo experiência prévia com <strong>C, Java, HTML, CSS e React</strong>, incluindo o desenvolvimento de um <strong>jogo em Java</strong>.
-</p>
-
-<p>
-  Tenho sólida base em <strong>versionamento de código (Git)</strong>, além de trabalhar com ferramentas e tecnologias como 
-  <strong>PySpark, Docker, Linux, Kubernetes, Data Quality e processamento de grandes volumes de dados</strong>. 
-  Essas competências vêm sendo aplicadas tanto em projetos acadêmicos quanto profissionais.
+  I currently work as a <strong>Junior Data Engineer</strong> and I am focused on continuously improving my skills in <strong>Data Engineering and Big Data</strong>. 
+  I have prior experience with <strong>C, Java, HTML, CSS, and React</strong>, including the development of a <strong>Java-based game</strong>.
 </p>
 
 <p>
-  Apresentei minha <strong>Iniciação Científica</strong> em formato de pôster no 
-  <strong>EAMC do Laboratório Nacional de Computação Científica (LNCC)</strong> e também na 
-  <strong>Universidade do Vale do Itajaí (UNIVALI)</strong>, ambos em <strong>2025</strong>, com foco em 
-  <strong>Algoritmos Evolutivos</strong>. 
-  Sou apaixonado por tecnologia, inovação e <strong>automobilismo</strong>, áreas que influenciam diretamente meus interesses e projetos.
+  I have a solid foundation in <strong>code versioning (Git)</strong> and hands-on experience with tools and technologies such as 
+  <strong>PySpark, Docker, Linux, Kubernetes, Data Quality, and large-scale data processing</strong>. 
+  These skills have been applied in both academic and professional projects.
 </p>
 
-
-<h2>Tecnologias</h2>
 <p>
-  <!-- Linguagens -->
+  I presented my <strong>Undergraduate Research</strong> as a poster at the 
+  <strong>EAMC of the National Laboratory for Scientific Computing (LNCC)</strong> and also at the 
+  <strong>University of Vale do Itajaí (UNIVALI)</strong>, both in <strong>2025</strong>, with a focus on 
+  <strong>Evolutionary Algorithms</strong>. 
+  I am passionate about technology, innovation, and <strong>motorsports</strong>, which strongly influence my interests and projects.
+</p>
+
+<h2>Technologies</h2>
+<p>
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 
-  <!-- Front-end -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-  <!-- Engenharia de Dados / Big Data -->
+  <!-- Data Engineering / Big Data -->
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Big%20Data-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Quality-2E7D32?style=flat-square" />
 
-  <!-- DevOps / Infra -->
+  <!-- Cloud / DevOps / Infrastructure -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<h2 align="center">GitHub Stats</h2>
 
-<h2>GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMacri&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMacri&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AugustoMacri&theme=tokyonight" />
 </p>
 
-<h2>Conecte-se comigo</h2>
+
+<h2>Connect with Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/augusto-macri-743b09281/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
