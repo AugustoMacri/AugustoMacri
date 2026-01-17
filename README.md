@@ -50,13 +50,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AugustoMacri&theme=tokyonight" />
-</p>
-
-
 <h2>Connect with Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/augusto-macri-743b09281/">
